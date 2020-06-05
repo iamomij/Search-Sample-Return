@@ -40,7 +40,5 @@ The record called 'drive_rover.py' is the thing that you will use to explore the
 
 python drive_rover.py 
 
-''' 
-Student Name : Omkar Jagtap
-email id : omi.j0026@gmail.com
+
 
